@@ -1,11 +1,11 @@
 ## Project Title: My Simple Portfolio
 
 ## Description:
-A basic portfolio website designed to showcase my web development skills.
+Welcome to my Portfolio website ! A basic portfolio website designed to showcase my early web development skills.
 
-## Key Features:
-* About Me section
-* Contact information
+## Pages :
+* Home page: A brief introduction about myself and an welcome message.
+* Contact page: Ways to get in touch with me. 
 
 ## Technologies Used:
 * HTML5
